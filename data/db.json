@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "tweet on whta you're learning",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "visit the mall",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "complete my side projects",
+      "completed": true
+    }
+  ]
+}
